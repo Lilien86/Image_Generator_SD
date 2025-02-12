@@ -1,0 +1,11 @@
+diffusers
+torch
+torchvision
+torchaudio
+transformers
+gradio
+accelerate
+safetensors
+xformers
+pillow
+numpy

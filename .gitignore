@@ -1,0 +1,19 @@
+venv/
+.env/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.log
+
+.ipynb_checkpoints/
+
+.DS_Store  # macOS metadata files
+Thumbs.db  # Windows thumbnail cache
+
+.vscode/
+.idea/
+*.iml
+
