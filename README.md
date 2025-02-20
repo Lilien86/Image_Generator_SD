@@ -4,9 +4,13 @@
 
 **Image_Generator_SD** is a web application that allows you to generate or modify images using **Stable Diffusion** models through a user-friendly **Gradio** interface. This project combines three core functionalities:
 
+----> [Web-UI Acces](https://huggingface.co/spaces/lauger/Image_Generator_SD)
+
 1. **Txt2Img**: Generate images from scratch using text prompts.
 2. **Img2Img**: Transform an existing image guided by text prompts.
 3. **Inpainting**: Modify or fill specific regions of an image using masks and text prompts.
+
+
 
 ---
 
